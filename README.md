@@ -6,8 +6,10 @@ The entire world is transforming digitally and our relationship with technology 
 
 When was the last time you ordered food online? And how long did it take to reach you? In this hackathon, we are provided with data that is a by-product as well as a thriving proof of this growing relationship. The data is from thousands of restaurants in India which has recorded the time they take to deliver food for online order. As data scientists, our goal is to predict the online order delivery time based on the given factors.
 
+
 Size of training set: 11,094 records
 Size of test set: 2,774 records
+
 
 FEATURES:
 Restaurant: A unique ID that represents a restaurant.
